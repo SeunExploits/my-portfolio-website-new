@@ -11,9 +11,9 @@ const data = [
  {
   id: 1,
   Image: IMG1,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github: 'https://github.com',
-  demo: 'https://github.com'
+  title: 'A Responsive Real Estate Website built using React, Tailwind-Css, Web3-forms and Framer-Motion',
+  github: 'https://github.com/SeunExploits/Exploits-Real-Estate',
+  demo: 'https://real-estate-seven-gold.vercel.app/'
  },
 
  {
