@@ -19,17 +19,17 @@ const data = [
  {
   id: 2,
   Image: IMG2,
-  title: 'Charts Template & infographics in figma',
-  github: 'https://github.com',
-  demo: 'https://github.com'
+  title: 'A Responsive Portfolio Design built with React, Swiper.js, Email.js',
+  github: 'https://github.com/SeunExploits/my-portfolio-website-new',
+  demo: 'https://my-portfolio-website-new-orcin.vercel.app/'
  },
  
  {
   id: 3,
   Image: IMG3,
-  title: 'Blockchain architecture & services',
-  github: 'https://github.com',
-  demo: 'https://github.com'
+  title: 'E-commerce Website built with React.js',
+  github: 'https://github.com/SeunExploits/frontend',
+  demo: 'https://e-commerce-three-mu-39.vercel.app/'
  },
  
   {

@@ -19,17 +19,17 @@ import 'swiper/css/pagination';
 const data = [
 {
   avatar: AVTR1,
-  name: 'Akpan Promise',
+  name: 'keziah Ayo',
   review:'Lorem ipsum dolor sit amet consectetur elit Lorem ipsum.'
 },
 {
   avatar: AVTR2,
-  name: 'Justin Bieber',
+  name: 'Oluwashina ajayi',
   review: 'Lorem ipsum dolor sit amet consectetur elit Lorem ipsum.'
 },
 {
   avatar: AVTR3,
-  name: 'Travis Scott',
+  name: 'Femi shokefun',
   review: 'Lorem ipsum dolor sit amet consectetur elit Lorem ipsum.'
 },
 {
